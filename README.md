@@ -22,4 +22,4 @@
 
  </br></br>
 
-<img src="./img/selenium-2023-10-02 223257.png" width="700" hight="400"/>
+<img src="./img/selenium-2023-10-02 223257.png" width="900" hight="400"/>
